@@ -1,1 +1,1 @@
-# 0auth-test
+# Working setup for a 0Auth flutter application
